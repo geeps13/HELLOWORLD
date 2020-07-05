@@ -1,0 +1,14 @@
+@echo off
+@Timeout off
+
+echo hello world?
+timeout 3
+echo hello code
+timeout 4
+echo how are you?
+timeout 2
+echo good how are you?
+timeout 5
+echo I don't know how to feel
+timeout 1
+echo :(
